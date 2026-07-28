@@ -1,10 +1,6 @@
 # SealShuffle
-Battery-Powered Custom PCB Card Shuffler for MTG Commander
+I'm building a fully portable, rechargeable card shuffler designed specifically for 100-card single-sleeved Magic: The Gathering Commander decks.
 
-## Pitch
-Idea: SealShuffle – Battery-Powered PCB Card Shuffler for MTG Commander
-Proposed tier: Tier 2 (open to Tier 1 if reviewers think the scope warrants it)
-I'm designing: the fully 3D-printed card shuffler itself which are the chassis, gears, rollers, card guides, and hopper. Integrated with my PCB, battery system, and sensors. PCB with ESP32-C3, motor drivers, and LiPo charging. Firmware for shuffle logic, jam detection, and battery monitoring. I envision pulling this out and just using it as a product myself! I think this project will take 1-2 months.
 
 Rough BOM (will refine as I prototype):
 MCU (ESP32-C3 with USB-C charging) ~$12
